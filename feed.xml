@@ -5,7 +5,7 @@
     <link>https://github.com/treiziemesalope/coding-course-podcast-</link>
     <description>A conceptual course covering how code works, how codebases are organised, version control, APIs, cloud deployment, enterprise software, and where AI fits in.</description>
     <language>en</language>
-    <atom:link href="PASTE_YOUR_FEED_XML_RAW_URL_HERE" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
 
     <item>
       <title>01: What Code Is and How It Runs</title>
