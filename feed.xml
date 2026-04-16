@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Coding Literacy Course</title>
+    <link>https://github.com/treiziemesalope/coding-course-podcast-</link>
+    <description>A conceptual course covering how code works, how codebases are organised, version control, APIs, cloud deployment, enterprise software, and where AI fits in.</description>
+    <language>en</language>
+    <atom:link href="PASTE_YOUR_FEED_XML_RAW_URL_HERE" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+
+    <item>
+      <title>01: What Code Is and How It Runs</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/01_what_code_is_and_how_it_runs.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/01_what_code_is_and_how_it_runs.mp3</guid>
+      <description>Source code, compilation, interpretation, runtimes, and what an IDE actually is.</description>
+    </item>
+
+    <item>
+      <title>02: Major Programming Languages</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/02_major_programming_languages.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/02_major_programming_languages.mp3</guid>
+      <description>Python, JavaScript, C/C++, Java, SQL, Rust, Go, Swift and Kotlin - what each is for and why it matters.</description>
+    </item>
+
+    <item>
+      <title>03: How Codebases Are Organised</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/03_how_codebases_are_organised.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/03_how_codebases_are_organised.mp3</guid>
+      <description>Files, modules, packages, dependencies, and what package managers actually do.</description>
+    </item>
+
+    <item>
+      <title>04: Version Control - Git and GitHub</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/04_version_control_git_and_github.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/04_version_control_git_and_github.mp3</guid>
+      <description>What version control solves, how Git works conceptually, and why GitHub won.</description>
+    </item>
+
+    <item>
+      <title>05: How Software Talks to Other Software</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/05_how_software_talks_to_other_software.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/05_how_software_talks_to_other_software.mp3</guid>
+      <description>APIs, REST, databases, and what frontend and backend actually mean.</description>
+    </item>
+
+    <item>
+      <title>06: The Cloud and Deployment</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/06_the_cloud_and_deployment.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/06_the_cloud_and_deployment.mp3</guid>
+      <description>What deploying means, servers, containers, and how CI/CD automates shipping code.</description>
+    </item>
+
+    <item>
+      <title>07: Enterprise-Level Software</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/07_enterprise_level_software.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/07_enterprise_level_software.mp3</guid>
+      <description>Microservices, technical debt, code review culture, security, and secrets management.</description>
+    </item>
+
+    <item>
+      <title>08: Where AI and Vibe Coding Fit</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/08_where_ai_and_vibe_coding_fit.mp3" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/08_where_ai_and_vibe_coding_fit.mp3</guid>
+      <description>Where LLM-generated code sits in the stack, why context still matters, and what can go wrong.</description>
+    </item>
+
+  </channel>
+</rss>
