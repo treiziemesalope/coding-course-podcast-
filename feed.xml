@@ -1,66 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding Literacy Course</title>
     <link>https://github.com/treiziemesalope/coding-course-podcast-</link>
-    <description>A conceptual course covering how code works, how codebases are organised, version control, APIs, cloud deployment, enterprise software, and where AI fits in.</description>
+    <description>A conceptual course covering how code works, how codebases are organised, version control, APIs, cloud deployment, enterprise software, AI/vibe coding, home server setup, and security.</description>
     <language>en</language>
-    <atom:link href="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>01: What Code Is and How It Runs</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/01_what_code_is_and_how_it_runs.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/01_what_code_is_and_how_it_runs.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/01_what_code_is_and_how_it_runs.mp3</guid>
       <description>Source code, compilation, interpretation, runtimes, and what an IDE actually is.</description>
     </item>
 
     <item>
       <title>02: Major Programming Languages</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/02_major_programming_languages.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/02_major_programming_languages.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/02_major_programming_languages.mp3</guid>
       <description>Python, JavaScript, C/C++, Java, SQL, Rust, Go, Swift and Kotlin - what each is for and why it matters.</description>
     </item>
 
     <item>
       <title>03: How Codebases Are Organised</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/03_how_codebases_are_organised.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/03_how_codebases_are_organised.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/03_how_codebases_are_organised.mp3</guid>
       <description>Files, modules, packages, dependencies, and what package managers actually do.</description>
     </item>
 
     <item>
       <title>04: Version Control - Git and GitHub</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/04_version_control_git_and_github.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/04_version_control_git_and_github.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/04_version_control_git_and_github.mp3</guid>
       <description>What version control solves, how Git works conceptually, and why GitHub won.</description>
     </item>
 
     <item>
       <title>05: How Software Talks to Other Software</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/05_how_software_talks_to_other_software.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/05_how_software_talks_to_other_software.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/05_how_software_talks_to_other_software.mp3</guid>
       <description>APIs, REST, databases, and what frontend and backend actually mean.</description>
     </item>
 
     <item>
       <title>06: The Cloud and Deployment</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/06_the_cloud_and_deployment.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/06_the_cloud_and_deployment.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/06_the_cloud_and_deployment.mp3</guid>
       <description>What deploying means, servers, containers, and how CI/CD automates shipping code.</description>
     </item>
 
     <item>
       <title>07: Enterprise-Level Software</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/07_enterprise_level_software.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/07_enterprise_level_software.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/07_enterprise_level_software.mp3</guid>
       <description>Microservices, technical debt, code review culture, security, and secrets management.</description>
     </item>
 
     <item>
       <title>08: Where AI and Vibe Coding Fit</title>
-      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/08_where_ai_and_vibe_coding_fit.mp3" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/08_where_ai_and_vibe_coding_fit.mp3" length="0" type="audio/mpeg"/>
       <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/08_where_ai_and_vibe_coding_fit.mp3</guid>
       <description>Where LLM-generated code sits in the stack, why context still matters, and what can go wrong.</description>
+    </item>
+
+    <item>
+      <title>09: What's Running on Your Pi</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/09_whats_running_on_your_pi.mp3" length="1888416" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/09_whats_running_on_your_pi.mp3</guid>
+      <description>Processes, services, ports, and what Jellyfin and your torrent client are actually doing.</description>
+    </item>
+
+    <item>
+      <title>10: How Home Networks Work</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/10_how_home_networks_work.mp3" length="1788048" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/10_how_home_networks_work.mp3</guid>
+      <description>Routers, local vs external IP, NAT, and what is and isn't visible from the internet.</description>
+    </item>
+
+    <item>
+      <title>11: The Realistic Threat Model</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/11_realistic_threat_model.mp3" length="1744560" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/11_realistic_threat_model.mp3</guid>
+      <description>What the actual risks are for a home server, what aren't, and how to think about it.</description>
+    </item>
+
+    <item>
+      <title>12: SSH and How to Harden It</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/12_ssh_hardening.mp3" length="2161584" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/12_ssh_hardening.mp3</guid>
+      <description>What SSH is, key-based auth, disabling root login, and what fail2ban does.</description>
+    </item>
+
+    <item>
+      <title>13: Ports and Firewalls</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/13_ports_and_firewalls.mp3" length="1722960" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/13_ports_and_firewalls.mp3</guid>
+      <description>What ports are open by default, what a firewall does, and what port forwarding exposes.</description>
+    </item>
+
+    <item>
+      <title>14: VPNs - The Full Picture</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/14_vpns_the_full_picture.mp3" length="3289104" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/14_vpns_the_full_picture.mp3</guid>
+      <description>How VPNs work, what they do and don't protect, kill switches, and choosing the right provider.</description>
+    </item>
+
+    <item>
+      <title>15: Jellyfin Security</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/15_jellyfin_security.mp3" length="1462608" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/15_jellyfin_security.mp3</guid>
+      <description>Authentication, external access, reverse proxies, and HTTPS for your media server.</description>
+    </item>
+
+    <item>
+      <title>16: Torrent Client Considerations</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/16_torrent_client_considerations.mp3" length="1503216" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/16_torrent_client_considerations.mp3</guid>
+      <description>Why torrent traffic benefits from VPN and how to bind your client to the VPN interface.</description>
+    </item>
+
+    <item>
+      <title>17: General Hardening</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/17_general_hardening.mp3" length="1474704" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/17_general_hardening.mp3</guid>
+      <description>Keeping software updated, user permissions, sudo, and disabling unnecessary services.</description>
+    </item>
+
+    <item>
+      <title>18: Practical Monitoring</title>
+      <enclosure url="https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/18_practical_monitoring.mp3" length="2173104" type="audio/mpeg"/>
+      <guid>https://raw.githubusercontent.com/treiziemesalope/coding-course-podcast-/main/18_practical_monitoring.mp3</guid>
+      <description>What to monitor, Netdata, reading auth logs, and knowing when something is wrong.</description>
     </item>
 
   </channel>
